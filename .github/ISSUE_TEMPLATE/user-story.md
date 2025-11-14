@@ -9,7 +9,7 @@ assignees: ''
 
 ### 📖 Summary
 **As a** …  
-**I want to** …  
+**I need to** …  
 **So that** …  
 
 ---
